@@ -1,0 +1,9 @@
+c:\users\unknown_device\documents\visual studio 2015\Projects\TCPKonekcija\TCPKonekcija\bin\Debug\TCPKonekcija.exe.config
+c:\users\unknown_device\documents\visual studio 2015\Projects\TCPKonekcija\TCPKonekcija\bin\Debug\TCPKonekcija.exe
+c:\users\unknown_device\documents\visual studio 2015\Projects\TCPKonekcija\TCPKonekcija\bin\Debug\TCPKonekcija.pdb
+c:\users\unknown_device\documents\visual studio 2015\Projects\TCPKonekcija\TCPKonekcija\obj\Debug\TCPKonekcija.csprojResolveAssemblyReference.cache
+c:\users\unknown_device\documents\visual studio 2015\Projects\TCPKonekcija\TCPKonekcija\obj\Debug\TCPKonekcija.Form1.resources
+c:\users\unknown_device\documents\visual studio 2015\Projects\TCPKonekcija\TCPKonekcija\obj\Debug\TCPKonekcija.Properties.Resources.resources
+c:\users\unknown_device\documents\visual studio 2015\Projects\TCPKonekcija\TCPKonekcija\obj\Debug\TCPKonekcija.csproj.GenerateResource.Cache
+c:\users\unknown_device\documents\visual studio 2015\Projects\TCPKonekcija\TCPKonekcija\obj\Debug\TCPKonekcija.exe
+c:\users\unknown_device\documents\visual studio 2015\Projects\TCPKonekcija\TCPKonekcija\obj\Debug\TCPKonekcija.pdb
